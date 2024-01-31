@@ -26,15 +26,19 @@ export const Slide = () => {
             alt="1-ая картина"
           />
         </div>
-        <div>
+        <div className="slide__firstImg">
           <img
             className="first__img"
             src="https://avatars.mds.yandex.net/i?id=85a9261bb46da45aeaf1838ff7915a4da079fe5e-10491961-images-thumbs&n=13"
             alt="2-ая картина"
           />
         </div>
-        <div>
-          <h3>Слайд 3</h3>
+        <div className="slide__firstImg">
+          <img
+            className="first__img"
+            src="https://avatars.mds.yandex.net/i?id=2fc5f9e8c4a4c0301e8ce17da2ac4a3b245e8b51-5225319-images-thumbs&n=13"
+            alt="3-ья картина"
+          />
         </div>
       </Slider>
       <Flex>
