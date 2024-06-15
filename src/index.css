@@ -1,0 +1,12 @@
+.transition {
+  transition: all 0.35s ease;
+}
+
+.active {
+  background-color: lightblue;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,67 @@
+{
+  "status": "SUCCESS",
+  "code": 0,
+  "message": "Step update user was successfully complete!",
+  "data": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "apartment_id": 4,
+      "price": 0,
+      "date_from": "2024-06-12",
+      "date_to": "2024-06-14",
+      "created_at": "2024-06-12T10:14:18.905605+05:00",
+      "apartments": {
+        "id": 4,
+        "active": false,
+        "name": "103",
+        "description": "Nice room",
+        "image": "some path",
+        "price": 100.1,
+        "created_at": "2024-06-12T09:21:20.919595+05:00",
+        "updated_at": "2024-06-12T10:24:16.356977+05:00"
+      },
+      "user": {
+        "id": 1,
+        "name": "Mehroj",
+        "phone": "123123123",
+        "email": "said_m2003@mail.ru",
+        "role": "",
+        "country": "",
+        "birth_date": null,
+        "created_at": "2024-06-12T09:14:54.460207+05:00",
+        "updated_at": "2024-06-12T09:14:54.552962+05:00"
+      }
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "apartment_id": 4,
+      "price": 100.1,
+      "date_from": "2024-06-12",
+      "date_to": "2024-06-14",
+      "created_at": "2024-06-12T10:24:16.355745+05:00",
+      "apartments": {
+        "id": 4,
+        "active": false,
+        "name": "103",
+        "description": "Nice room",
+        "image": "some path",
+        "price": 100.1,
+        "created_at": "2024-06-12T09:21:20.919595+05:00",
+        "updated_at": "2024-06-12T10:24:16.356977+05:00"
+      },
+      "user": {
+        "id": 1,
+        "name": "Mehroj",
+        "phone": "123123123",
+        "email": "said_m2003@mail.ru",
+        "role": "",
+        "country": "",
+        "birth_date": null,
+        "created_at": "2024-06-12T09:14:54.460207+05:00",
+        "updated_at": "2024-06-12T09:14:54.552962+05:00"
+      }
+    }
+  ]
+}
